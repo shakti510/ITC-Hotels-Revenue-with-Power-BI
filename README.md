@@ -1,8 +1,8 @@
 # ITC-Hotels-Revenue-with-Power-BI
 **Project Details**
 
-ITC Hotels Revenue Optimization with Power BI
-
+**ITC Hotels Revenue Optimization with Power BI
+**
 About ITC Hotels
 
 ITC Hotels is one of India’s leading luxury hotel chains, renowned for its commitment to responsible luxury, sustainability, and world-class hospitality. With properties like ITC Maurya (New Delhi) and ITC Grand Chola (Chennai), the brand integrates green building practices, renewable energy, and waste management solutions while offering a premium guest experience.
